@@ -8,7 +8,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author USUARIO
+ * @author Adriana Torres
  */
 public interface InterfaceReservaciones extends CrudRepository<Reservaciones,Integer>{
     

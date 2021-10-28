@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author USUARIO
+ * @author Adriana Torres
  */
 @RestController
 @RequestMapping("/api/Client")

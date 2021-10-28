@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author USUARIO
+ * @author Adriana Torres
  */
 @Service
 public class ServiciosBike {

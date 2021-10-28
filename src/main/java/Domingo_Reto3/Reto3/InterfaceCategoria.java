@@ -8,7 +8,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author USUARIO
+ * @author Adriana Torres
  */
 public interface InterfaceCategoria extends CrudRepository<Categoria,Integer>{
     
